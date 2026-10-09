@@ -1,0 +1,6 @@
+{
+  "name": "Pasapalabra Español-Armenio (B1-B2)",
+  "description": "Իսպաներենի վիկտորինա և Պասապալաբրա խաղ B1-B2 մակարդակի համար՝ հայերեն և իսպաներեն լեզուներով (Pasado և Subjuntivo)։",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
